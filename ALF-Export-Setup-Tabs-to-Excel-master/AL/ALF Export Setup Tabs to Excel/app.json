@@ -1,0 +1,22 @@
+{
+  "id": "a39fa61b-357a-4612-a695-d8dc71b9e8e3",
+  "name": "ALF Export Setup Tabs to Excel",
+  "publisher": "ALF Alexey Finogenov",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",  
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
